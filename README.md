@@ -1,0 +1,2 @@
+# Fintech-Technologies-and-Disruptions---NetworkNurture-VC-Platform
+This project develops NetworkNurture VC, an intelligent platform designed to improve network utilization &amp; value creation for venture capital firms. By utilizing intelligent automation (RPA), graph databases, AI with deep learning, &amp; blockchain technology, the platform addresses inefficiencies in resource matching &amp; collaboration within VC networks
